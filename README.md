@@ -1,3 +1,11 @@
 # mvc-2
 
-This contains the program of second task of mvc
+    A Login form having 2 text field - userName , userPassword
+
+    Once User clicks on the submit button data should be send to UserController ,
+
+    UserController will populate the data inside the User class .
+
+    UserController will pass user object to view (index.jsp).
+
+    View will display “Welcome <user> to stackroute”.
